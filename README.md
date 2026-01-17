@@ -1,10 +1,18 @@
-🤖 AI Chatbot Platform (Django + React + LLM)
-This project is a full-stack AI Chatbot Platform that allows users to register, log in, create projects (AI agents), add system prompts, and chat with an AI model.
+Just copy everything between the lines and paste into README.md.
 
-Backend: Django + Django REST Framework + JWT
-Frontend: React (Vite)
-AI: OpenRouter (Free LLM models)
-📦 System Requirements
+# 🤖 AI Chatbot Platform (Django + React + LLM)
+
+This project is a full-stack **AI Chatbot Platform** that allows users to register, log in, create projects (AI agents), add system prompts, and chat with an AI model.
+
+- Backend: Django + Django REST Framework + JWT
+- Frontend: React (Vite)
+- AI: OpenRouter (Free LLM models)
+
+---
+
+## 📦 System Requirements
+
+```bash
 Python 3.9+
 Node.js 18+
 npm 9+
@@ -216,4 +224,6 @@ Show formatted AI response
 👨‍💻 Author
 
 Nandan Bhandary
+
+
 
